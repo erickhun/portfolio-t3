@@ -5,18 +5,18 @@ import ProfilePhoto from "./assets/ProfilePhoto.png";
 import { ScrollDownIcon } from "../components/AnimatedIcons";
 
 const content = {
-  name: "Marcin@Taipei.dev",
+  name: "Eric@Taipei.dev",
   profilePhoto: ProfilePhoto,
-  title: "Full Stack Developer",
+  title: "Penguins Developer",
   cta: {
-    label: "Follow me on Twitch!",
-    url: "https://www.twitch.tv/taipei_dev",
+    label: "Follow me on Twitter!",
+    url: "https://www.twitter.com/eric_khun",
   },
   socialMedia: {
     github: "https://github.com/TaipeiDev/portfolio-t3",
     dribbble: null,
-    twitter: "https://twitter.com/taipeidev",
-    email: "hi@taipei.dev",
+    twitter: "https://twitter.com/eric_khun",
+    email: "eric@taipei.dev",
   },
   header: (
     <div>
